@@ -1,6 +1,6 @@
 # Chat-Sentiment-Analysis-Project
 
-![alt imagen](Input/Chat-Analysis.jpeg | width=300)
+![alt imagen](Input/Chat-Analysis.jpeg)
 
 ## Project Goals
 
